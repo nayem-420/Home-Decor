@@ -10,6 +10,7 @@ const Home = () => {
     const featuredProducts = products.slice(0, 6);
     return (
       <div>
+        <title>Home-Decor Home</title>
         <div className="flex items-center justify-between my-4">
           <h1 className="font-bold text-3xl">Featured Products</h1>
           <Link to="/products" className="btn btn-outline">

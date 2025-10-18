@@ -28,6 +28,7 @@ const WishList = () => {
   }
     return (
       <div>
+        <title>Home-Decor WishList</title>
         <div className="flex items-center justify-between space-y-5">
           <h1 className="text-3xl font-bold">
             Wish List{" "}

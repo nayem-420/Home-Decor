@@ -13,6 +13,7 @@ const Products = () => {
     : products;
   return (
     <div>
+      <title>Home-Decor Products</title>
       <div className="flex items-center justify-between my-4">
         <h1 className="font-bold text-3xl">
           All Products
